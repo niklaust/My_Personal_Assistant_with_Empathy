@@ -1,0 +1,34 @@
+Emotion are consist of 6 typies
+
+There are Anger, Disgust, Fear, Happiness, Sadness and Surprise
+
+Now let 's take a look at the **facial Expression and muscle movement** of 6 Emotions.
+
+- **Anger** 
+ - eyebrows down and together
+ - eyes glare
+ - narrowing of the lips
+
+- **Disgust**
+ - nose wrinkling
+ - upper lip raised
+
+
+- **Fear**
+ - byebrows raised and pulled together
+ - raised upper eyelids
+ - tensed loweer eyelids
+ - lips slightly stretched horizontally back to ears  
+
+- **Happiness**
+ - lip corner tightened and raised on only one side of face
+
+- **Sadness**
+ - drooping upper eyeslids 
+ - losign focus in eyes
+ - slight pullign down of lip corners
+
+- **Surprise**
+ - eyebrows raised 
+ - eyes widened
+ - mouth open
